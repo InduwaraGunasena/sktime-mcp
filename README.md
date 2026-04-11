@@ -326,7 +326,7 @@ Persist a fitted estimator or pipeline handle to a local filesystem path using `
 
 ---
 
-### Datasets
+### Data Availability
 
 #### 10. `list_available_data`
 List all available data — both system demo datasets and active user-loaded data handles — in a single unified response.
